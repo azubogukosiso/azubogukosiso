@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Azubogu Kosisochukwu
-- I’m a computer science student and full-stack web developer
-- My skills include: HTML, CSS, PHP, Bootstrap, Node.js and React.js
-- I'm currently working on some projects for my portfolio, you can check them out in my repos
-<!---
-azubogukosiso/azubogukosiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 My name is Azubogu Kosisochukwu
+=====================================
+
+Full-stack Web Developer
+------------------------
+
+I've been in the field for 3 years now. Over the years I've gained experience in web development but only recently decided on sharing my work publicly (you know, imposter syndrome 🥲). At the moment I'm proficient in html, css, js, bootstrap, react, nodejs and php.
+
+*   🌍  I'm based in Anambra, Nigeria
+*   ✉️  You can contact me at [azuboguko@gmail.com](mailto:azuboguko@gmail.com)
+*   🧠  I'm learning To build MERN stack web apps
+*   🤝  I'm open to collaborating on Open-source projects and socializing with other devs
+*   ⚡  I love soccer or football - whatever you want to call it 😅
