@@ -8,7 +8,7 @@ I've been in the field for 3 years now. Over the years I've gained experience in
 
 *   🌍  I'm based in Anambra, Nigeria
 *   ✉️  You can contact me at [azuboguko@gmail.com](mailto:azuboguko@gmail.com)
-*   🧠  I'm learning To build MERN stack web apps
+*   🧠  I'm learning to build MERN stack web apps
 *   🤝  I'm open to collaborating on Open-source projects and socializing with other devs
 *   ⚡  I love soccer or football - whatever you want to call it 😅 <br> Skills: <p align="left">
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
