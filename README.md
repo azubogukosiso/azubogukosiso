@@ -6,7 +6,7 @@ Full-stack Web Developer (MERN stack)
 
 *   🌍  I'm based in Anambra, Nigeria
 *   ✉️  You can contact me at [azuboguko@gmail.com](mailto:azuboguko@gmail.com)
-*   🧠  I'm learning to build MERN stack web apps
+*   🧠  I'm currently building projects for my portfolio
 *   🤝  I'm open to collaborating on Open-source projects and socializing with other devs
 *   ⚡  I love soccer or football - whatever you like to call it 😅 <br> Skills: 
 <p align="left">
