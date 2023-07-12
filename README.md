@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Azubogu Kosisochukwu</h1>
-<h3 align="center">A Web Developer</h3>
+<h1 align="center">Hi 😊, I'm Azubogu Kosisochukwu</h1>
+<h3 align="center">A Web Developer - currently proficient with Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azubogukosiso&label=Profile%20views&color=0e75b6&style=flat-square" alt="azubogukosiso" /> </p>
 
-- 🔭 I’m currently working on **portfolio projects and other solutions**
+- 🔭 I’m currently working on **portfolio projects and other web-based solutions**
 
-- 👯 I’m looking to collaborate on **on open-source projects**
+- 🌱 I’m currently learning **to integrate AI into websites and web apps**
+
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://azubogukosiso.netlify.app](https://azubogukosiso.netlify.app)
 
